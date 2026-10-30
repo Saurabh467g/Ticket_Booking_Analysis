@@ -4,7 +4,7 @@
 ## Project Metadata & Personal Information:
 
 * Project Title: Customer Support Ticket Analysis
-* Subject: Introduction to Data Analytics
+* Subject: Introduction To Data Analytics
 * Group ID: BT_DA_07
 * Project ID: DA-25
 * Section: A
