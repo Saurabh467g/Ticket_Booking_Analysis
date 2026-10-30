@@ -6,9 +6,9 @@
 * Project Title: Customer Support Ticket Analysis
 * Subject: Introduction to Data Analytics
 * Group ID: BT_DA_07
-* Project ID: DA-25[
+* Project ID: DA-25
 * Section: A
-* Date: 30 October 2026[
+* Date: 30 October 2026
 * Mentor: Arsh Singh
 
 ### Team Members & Roll Numbers:
